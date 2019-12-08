@@ -1,0 +1,15 @@
+
+.container2{ 
+    font-family: cursive;
+    color: rgb(115, 171, 255);
+}
+body{
+    background-color: rgb(228, 255, 226);
+    font-family: cursive;
+list-style: none;
+text-decoration: none;}
+
+a{
+    text-decoration: none;
+    list-style: none;
+}

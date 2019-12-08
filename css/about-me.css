@@ -1,0 +1,15 @@
+.container3{
+    font-family: cursive;
+    color: mediumturquoise;
+}
+
+
+body{
+    background-color: rgb(255, 231, 234);
+    text-decoration: none;
+    list-style: none;
+}
+a{
+    list-style: none;
+    text-decoration: none;
+}
